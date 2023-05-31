@@ -1,2 +1,2 @@
-# SInformasiKampusCPlus2
-Project sederhana Sistem Informasi Kampus menggunakan bahasa C++ 
+# Sistem Informasi Kampus with C++
+Project ini merupakan sebuah program sederhana yang mencakup Back-end dan Front-end (sederhana) untuk Sistem Informasi Kampus dengan menggunakan bahasa C++. Di dalam program ini user dapat login sebagai admin atau mahasiswa dan tentunya akan memiliki fitur dan otoritas yang berbeda sesuai dengan yang telah di tentukan dalam program. Seperti misalnya ketika login sebagai admin, maka ia akan memiliki otoritas untuk menambah/menghapus data mahasiswa, menentukan isi mata kuliah, dan mengakses database kampus.
